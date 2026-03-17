@@ -40,3 +40,6 @@ build/
 
 # Admin
 admin/
+
+COMPLETION.md
+SETUP.md

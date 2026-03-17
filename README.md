@@ -1,7 +1,8 @@
 # 📝 Blogging Platform
 
 A modern, full-stack blogging platform built with **Node.js/Express** backend and **React** frontend.
-<video controls src="20260317-1133-29.9118630.mp4" title="Blog-Hub live demo"></video>
+
+<video controls src="blog-hub_video.mp4" title="blog-hub"></video>
 
 ## ✨ Features
 
