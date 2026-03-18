@@ -1,4 +1,4 @@
-# 📝 Blogging Platform
+# 📝 Blog-Hub
 
 A modern, full-stack blogging platform built with **Node.js/Express** backend and **React** frontend.
 
